@@ -1,3 +1,3 @@
 export default function page() {
-    return <h1>cade</h1>
+    return <h1>cad se</h1>
   }
