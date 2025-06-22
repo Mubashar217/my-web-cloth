@@ -1,3 +1,3 @@
 export default function Breadcrumbs() {
-    return <h1>Hello Nesxfdt.jffs!</h1>
+    return <h1>Hello next js!</h1>
   }
